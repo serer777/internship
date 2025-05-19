@@ -1,6 +1,9 @@
 # internship
-Тестовое задание
 
+## Тестовое задание
+Тестовое задание доступно по ссылке: https://docs.google.com/document/d/181G7wIkK_haGnaDW10m4sDcfhibkuwFbK8fuG4bq6Fk/edit?tab=t.0
+
+## Решение тестового задания:
 
 ### Тестовое задание 1
 Вариант 1: После echo вводим числа
